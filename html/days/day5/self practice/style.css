@@ -1,0 +1,27 @@
+/* *{
+    text-decoration: none;
+    background-color: pink;
+}
+
+body{
+    background-color: rgba(102, 102, 100, 0.082);
+}
+
+#emailbox{
+    background-color: rgba(40, 37, 41, 0.075);
+
+}
+button{
+    
+height: 16px;
+}
+a{
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+*/
+#one{
+    text-transform: capitalize;
+    color: red;
+   font-size: 50px;
+} 
