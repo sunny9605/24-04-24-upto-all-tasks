@@ -1,0 +1,14 @@
+*{
+
+    background-color: aqua;
+}
+
+h1{
+    text-align: center;
+    color: brown;
+}
+#career{
+    background-color: black;
+    color: white;
+    display: inline;
+}

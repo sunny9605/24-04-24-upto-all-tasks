@@ -1,0 +1,13 @@
+*{
+    background-color: lightblue;
+    color: rgb(66, 41, 41);
+}
+button{
+    height: 30px;
+    width: 270px;
+    background-color: lightskyblue;
+    color: darkgoldenrod;
+}
+.heading{
+    color: darkgoldenrod;
+}
